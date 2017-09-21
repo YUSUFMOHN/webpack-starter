@@ -1,7 +1,6 @@
-const path = require('path');
+const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const PreloadWebpackPlugin = require("preload-webpack-plugin");
-const webpack = require("webpack");
 
 module.exports = {
   entry: "./src/script.js",
