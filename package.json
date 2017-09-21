@@ -1,0 +1,36 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Webpack starter",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azaleamollis/repository.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anna Monus",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "html-webpack-plugin": "^2.30.1",
+    "preload-webpack-plugin": "^2.0.0",
+    "webpack": "^3.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/azaleamollis/repository/issues"
+  },
+  "homepage": "https://github.com/azaleamollis/repository#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "html-webpack-plugin": "^2.30.1",
+    "preload-webpack-plugin": "^2.0.0",
+    "webpack": "^3.6.0"
+  }
+}
